@@ -1,0 +1,785 @@
+2023-07-20 01:41:50,103 [main] INFO Velocity3__Framework - Open the browser
+2023-07-20 01:41:50,235 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 01:41:51,737 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 01:41:51,862 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 01:41:51,945 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 01:41:53,152 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 01:41:56,495 [main] INFO Velocity3__Framework - close the browser
+2023-07-20 01:47:23,091 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-20 01:47:23,217 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 01:47:24,682 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 01:47:24,808 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 01:47:24,884 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 01:47:26,527 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 01:47:26,541 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-20 01:47:29,812 [main] INFO Velocity3__Framework - close the browser
+2023-07-20 01:49:19,753 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-20 01:49:19,890 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 01:49:21,314 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 01:49:21,445 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 01:49:21,522 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 01:49:23,176 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 01:49:23,187 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-20 01:49:26,408 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-20 02:17:41,476 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-20 02:17:41,596 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 02:17:42,999 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 02:17:43,071 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 02:17:43,119 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 02:17:44,656 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 02:17:44,664 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-20 02:17:47,818 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-20 02:20:58,461 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-20 02:20:58,585 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 02:21:00,082 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 02:21:00,155 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 02:21:00,200 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 02:21:01,704 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 02:21:01,713 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-20 02:21:04,858 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-20 02:28:43,039 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-20 02:28:43,160 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 02:28:44,870 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 02:28:44,956 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 02:28:45,005 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 02:28:46,972 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 02:28:46,981 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-20 02:28:50,116 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-20 02:30:15,362 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-20 02:30:15,496 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 02:30:16,977 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 02:30:17,052 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 02:30:17,101 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 02:30:18,623 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 02:30:18,631 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-20 02:30:21,754 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-20 02:32:04,657 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-20 02:32:04,776 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 02:32:06,206 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 02:32:06,276 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 02:32:06,320 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 02:32:08,293 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 02:32:08,306 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-20 02:32:11,443 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-20 02:33:34,029 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-20 02:33:34,154 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 02:33:34,876 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 02:33:34,957 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 02:33:35,003 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 02:33:36,563 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 02:33:36,570 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-20 02:33:42,702 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-20 02:35:22,253 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-20 02:35:22,371 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-20 02:35:23,106 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-20 02:35:23,177 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-20 02:35:23,222 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-20 02:35:24,776 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-20 02:35:24,783 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-20 02:35:30,914 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 00:40:32,552 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 00:40:32,677 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 00:40:34,108 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 00:40:34,183 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 00:40:34,230 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 00:40:36,300 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 00:40:36,308 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-21 00:40:42,451 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 00:42:07,670 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 00:42:07,797 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 00:42:09,460 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 00:42:09,529 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 00:42:09,571 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 00:42:11,101 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 00:42:11,115 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-21 00:42:17,205 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 00:44:45,799 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 00:44:45,926 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 00:44:47,359 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 00:44:47,436 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 00:44:47,487 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 00:44:49,110 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 00:44:49,116 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-21 00:44:55,257 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 00:45:28,885 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 00:45:29,009 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 00:45:30,454 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 00:45:44,026 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 00:45:44,863 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 00:45:44,990 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 00:45:46,472 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 00:45:46,529 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 00:45:46,572 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 00:45:48,055 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 00:45:48,063 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-21 00:45:54,189 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 00:46:46,198 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 00:46:46,325 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 00:46:47,741 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 00:47:01,334 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 00:47:02,161 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 00:47:02,281 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 00:47:02,964 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 00:47:03,020 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 00:47:03,063 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 00:47:04,739 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 00:47:10,900 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:02:28,027 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:02:28,300 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:02:30,008 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:02:30,070 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:02:30,094 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:02:31,642 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:02:31,648 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-21 01:02:38,364 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:04:30,306 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:04:30,423 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:04:31,839 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:04:31,907 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:04:31,950 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:04:32,733 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:04:32,743 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-21 01:04:38,877 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:14:36,493 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:14:36,616 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:14:38,045 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:14:38,114 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:14:38,158 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:14:39,659 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:14:45,814 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:24:15,792 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:24:15,913 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:24:17,374 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:24:17,443 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:24:17,487 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:24:19,024 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:24:25,172 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:33:34,065 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:33:34,194 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:33:35,740 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:33:35,815 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:33:35,862 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:33:38,114 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:33:44,259 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:33:45,117 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:33:45,247 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:33:46,649 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:33:46,703 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:33:46,749 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:33:48,289 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:33:54,450 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:33:55,271 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:33:55,406 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:33:56,787 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:33:56,842 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:33:56,885 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:33:58,429 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:34:04,579 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:36:44,358 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:36:44,483 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:36:45,876 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:36:45,948 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:36:45,990 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:36:47,560 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:36:53,706 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:49:52,834 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:49:52,957 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:49:54,373 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:49:54,445 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:49:54,488 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:49:56,056 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:50:02,201 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:50:03,030 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:50:03,158 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:50:04,602 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:50:04,658 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:50:04,702 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:50:05,556 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:50:11,692 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:50:12,509 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:50:12,630 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:50:14,055 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:50:14,111 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:50:14,153 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:50:15,698 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:50:21,838 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:55:28,687 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:55:28,818 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:55:30,246 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:55:58,971 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:55:59,825 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:55:59,954 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:56:01,388 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:56:29,990 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:56:30,827 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:56:30,960 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:56:32,412 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:57:00,981 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:57:01,815 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:57:01,940 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:57:03,409 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:57:03,465 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:57:03,508 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:57:05,058 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:57:11,209 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:57:12,022 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:57:12,141 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:57:12,817 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:57:12,871 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:57:12,913 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:57:14,477 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:57:20,615 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 01:57:21,429 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 01:57:21,553 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 01:57:22,198 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 01:57:22,249 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-21 01:57:22,289 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-21 01:57:23,085 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-21 01:57:29,166 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 20:11:36,917 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 20:11:37,050 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 20:11:37,949 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-21 20:11:45,990 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-21 20:11:47,115 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-21 20:11:47,239 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-21 20:11:48,852 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 14:28:25,450 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 14:28:25,586 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 14:28:26,376 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 14:28:26,525 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-24 14:28:26,620 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-24 14:28:27,995 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-24 14:28:28,864 [main] INFO Velocity3__Framework - 7)Click on the Computer
+2023-07-24 14:28:29,555 [main] INFO Velocity3__Framework - 8)Click on the notebook
+2023-07-24 14:28:50,752 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-24 14:28:51,930 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 14:28:52,049 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 14:28:52,814 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 14:28:52,915 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-24 14:28:52,992 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-24 14:28:53,436 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-24 14:28:54,077 [main] INFO Velocity3__Framework - 7)Click on the Computer
+2023-07-24 14:28:54,832 [main] INFO Velocity3__Framework - 8)Click on the notebook
+2023-07-24 14:29:16,088 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-24 14:29:17,328 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 14:29:17,452 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 14:29:18,941 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 14:29:19,050 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-24 14:29:19,131 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-24 14:29:20,389 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-24 14:29:20,962 [main] INFO Velocity3__Framework - 7)Click on the Computer
+2023-07-24 14:29:21,523 [main] INFO Velocity3__Framework - 8)Click on the notebook
+2023-07-24 14:29:42,783 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-24 14:32:01,403 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 14:32:01,537 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 14:32:03,023 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 14:32:03,164 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-24 14:32:03,248 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-24 14:32:03,837 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-24 14:32:04,507 [main] INFO Velocity3__Framework - 7)Click on the Computer
+2023-07-24 14:32:05,010 [main] INFO Velocity3__Framework - 8)Click on the notebook
+2023-07-24 14:32:26,316 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-24 15:50:45,154 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 15:50:45,280 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 15:50:46,682 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 15:50:46,760 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-24 15:50:46,803 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-24 15:50:47,942 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-24 15:50:48,407 [main] INFO Velocity3__Framework - 7)Click on the Computer
+2023-07-24 15:50:48,833 [main] INFO Velocity3__Framework - 8)Click on the notebook
+2023-07-24 15:50:49,267 [main] INFO Velocity3__Framework - 9)Click one the mackbook
+2023-07-24 15:50:49,301 [main] INFO Velocity3__Framework - 10)Item add to cart succesfully
+2023-07-24 15:50:49,329 [main] INFO Velocity3__Framework - 11)Verifactation msg-->add to cart
+2023-07-24 15:50:50,445 [main] INFO Velocity3__Framework - 12)Close the tab
+2023-07-24 15:50:56,593 [main] INFO Velocity3__Framework - 9)close the browser
+2023-07-24 16:31:16,059 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:31:16,184 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:31:17,609 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 16:31:17,678 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-24 16:31:17,720 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-24 16:31:18,098 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-24 16:31:18,543 [main] INFO Velocity3__Framework - 7)Click on the Computer
+2023-07-24 16:31:19,068 [main] INFO Velocity3__Framework - 8)Click on the notebook
+2023-07-24 16:31:19,516 [main] INFO Velocity3__Framework - 9)Click one the mackbook
+2023-07-24 16:31:19,552 [main] INFO Velocity3__Framework - 10)Item add to cart succesfully
+2023-07-24 16:31:19,581 [main] INFO Velocity3__Framework - 11)Verifactation msg-->add to cart
+2023-07-24 16:31:20,782 [main] INFO Velocity3__Framework - 12)Close the tab
+2023-07-24 16:31:26,945 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 16:32:23,230 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:32:23,356 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:32:24,753 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 16:32:24,825 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-24 16:32:24,869 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-24 16:32:26,021 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-24 16:32:26,466 [main] INFO Velocity3__Framework - 7)Click on the Computer
+2023-07-24 16:32:27,039 [main] INFO Velocity3__Framework - 8)Click on the notebook
+2023-07-24 16:32:27,508 [main] INFO Velocity3__Framework - 9)Click one the mackbook
+2023-07-24 16:32:27,539 [main] INFO Velocity3__Framework - 10)Item add to cart succesfully
+2023-07-24 16:32:27,561 [main] INFO Velocity3__Framework - 11)Verifactation msg-->add to cart
+2023-07-24 16:32:27,929 [main] INFO Velocity3__Framework - 12)Close the tab
+2023-07-24 16:32:34,071 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 16:42:50,341 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:42:50,470 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:42:51,951 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 16:43:42,230 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 16:45:33,639 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:45:33,760 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:45:35,320 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 16:45:35,453 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-24 16:45:35,527 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-24 16:45:36,818 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-24 16:45:38,186 [main] INFO Velocity3__Framework - 7)Click on the Computer
+2023-07-24 16:45:38,685 [main] INFO Velocity3__Framework - 8)Click on the notebook
+2023-07-24 16:45:39,288 [main] INFO Velocity3__Framework - 9)Click one the mackbook
+2023-07-24 16:45:39,361 [main] INFO Velocity3__Framework - 10)Item add to cart succesfully
+2023-07-24 16:45:39,416 [main] INFO Velocity3__Framework - 11)Verifactation msg-->add to cart
+2023-07-24 16:45:39,832 [main] INFO Velocity3__Framework - 12)Close the tab
+2023-07-24 16:45:46,076 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 16:46:02,782 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:46:02,906 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:46:03,582 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 16:46:51,553 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 16:49:41,297 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:49:41,427 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:49:42,863 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 16:49:49,085 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 16:51:02,505 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:51:02,640 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:51:03,308 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 16:51:09,553 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 16:51:37,817 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:51:37,951 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:51:39,406 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 16:52:34,040 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 16:53:16,501 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:53:16,620 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:53:17,312 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 16:53:57,417 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 16:56:10,658 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 16:56:10,783 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 16:56:11,634 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 17:00:30,069 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 17:00:37,737 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 17:00:37,860 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 17:00:38,612 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 17:01:45,956 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 17:02:33,391 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 17:02:33,522 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 17:02:34,292 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 17:06:03,564 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 17:08:57,457 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 17:08:57,587 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 17:08:58,852 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 17:09:09,038 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 17:10:12,837 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 17:10:12,979 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 17:10:14,468 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 17:11:06,733 [main] INFO Velocity3__Framework - close the browser
+2023-07-24 17:11:58,795 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-24 17:11:58,923 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-24 17:12:00,406 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-24 17:12:41,930 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:17:12,449 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:17:12,580 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:17:13,311 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:17:13,393 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:17:13,443 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:17:14,567 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:17:24,696 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:17:25,526 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:17:25,641 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:17:27,276 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:17:27,339 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:17:27,389 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:17:28,645 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:17:38,766 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:17:39,585 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:17:39,704 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:17:41,157 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:17:41,212 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:17:41,256 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:17:41,648 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:17:51,779 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:17:52,604 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:17:52,727 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:17:53,437 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:17:53,489 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:17:53,531 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:17:54,651 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:18:04,808 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:18:05,631 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:18:05,743 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:18:06,388 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:18:06,444 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:18:06,489 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:18:06,881 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:18:17,030 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:19:42,990 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:19:43,119 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:19:43,808 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:19:43,886 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:19:43,936 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:19:44,364 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:19:54,511 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:19:55,343 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:19:55,460 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:19:57,568 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:19:57,620 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:19:57,666 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:19:58,875 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:20:08,983 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:20:09,805 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:20:09,932 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:20:11,459 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:20:11,503 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:20:11,549 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:20:11,957 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:20:22,092 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:20:22,908 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:20:23,027 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:20:24,513 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:20:24,563 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:20:24,613 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:20:25,761 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:20:35,901 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:20:36,731 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:20:36,847 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:20:38,409 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:20:38,456 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:20:38,500 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:20:39,630 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:20:49,775 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:22:12,952 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:22:13,082 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:22:13,726 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:22:13,793 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:22:13,835 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:22:15,400 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:22:16,076 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-25 16:22:26,160 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:22:26,986 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:22:27,108 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:22:27,782 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:22:27,835 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:22:27,879 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:22:29,038 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:22:39,201 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:22:40,015 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:22:40,137 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:22:41,602 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:22:41,655 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:22:41,699 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:22:42,861 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:22:53,009 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:22:53,822 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:22:53,947 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:22:55,355 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:22:55,409 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:22:55,451 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:22:56,581 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:23:06,671 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:23:07,486 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:23:07,609 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:23:09,058 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:23:09,112 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:23:09,153 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:23:09,561 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:23:19,670 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:35:36,180 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:35:36,311 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:35:37,919 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:35:37,987 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:35:38,029 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:35:38,879 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:35:39,580 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-25 16:35:49,711 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:35:50,526 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:35:50,641 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:35:51,299 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:35:51,354 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:35:51,400 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:35:51,789 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:35:51,794 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 16:36:01,935 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:36:02,747 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:36:02,863 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:36:04,285 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:36:04,340 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:36:04,385 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:36:05,544 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:36:05,549 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 16:36:15,702 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:36:16,519 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:36:16,636 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:36:18,074 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:36:18,125 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:36:18,170 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:36:19,277 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:36:19,282 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 16:36:29,427 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:36:30,243 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:36:30,363 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:36:31,024 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:36:31,078 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:36:31,119 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:36:32,271 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:36:32,277 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 16:36:42,365 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:42:34,400 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:42:34,520 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:42:35,917 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:42:35,986 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:42:36,029 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:42:37,568 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:42:38,274 [main] INFO Velocity3__Framework - LOG OUT SUCCESFULL
+2023-07-25 16:42:38,276 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-25 16:42:48,382 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:42:49,198 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:42:49,321 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:42:50,722 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:42:50,777 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:42:50,820 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:42:51,957 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:42:51,963 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 16:43:02,065 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:43:02,877 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:43:02,999 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:43:04,442 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:43:04,494 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:43:04,536 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:43:05,821 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:43:05,826 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 16:43:15,930 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:43:16,745 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:43:16,867 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:43:18,437 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:43:18,488 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:43:18,530 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:43:19,675 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:43:19,679 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 16:43:29,791 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 16:43:30,589 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 16:43:30,712 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 16:43:32,198 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 16:43:32,250 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 16:43:32,296 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 16:43:32,694 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 16:43:32,699 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 16:43:42,810 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:20:13,677 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:20:13,804 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:20:15,942 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:20:16,009 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:20:16,050 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:20:17,305 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:20:27,588 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:20:28,401 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:20:28,520 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:20:29,923 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:20:29,976 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:20:30,021 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:20:31,150 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:20:31,155 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:20:41,286 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:20:42,115 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:20:42,232 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:20:43,856 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:20:43,913 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:20:43,954 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:20:44,339 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:20:44,345 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:20:54,484 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:20:55,302 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:20:55,414 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:20:56,932 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:20:56,986 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:20:57,030 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:20:58,270 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:20:58,275 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:21:08,419 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:21:09,236 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:21:09,362 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:21:10,949 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:21:11,002 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:21:11,047 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:21:12,185 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:21:12,191 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:21:22,300 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:27:20,582 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:27:20,709 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:27:22,238 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:27:39,610 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:27:51,536 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:27:51,664 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:27:53,044 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:27:53,110 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:27:53,153 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:27:54,281 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:28:04,559 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:28:05,379 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:28:05,510 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:28:06,933 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:28:06,987 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:28:07,032 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:28:08,156 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:28:08,162 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:28:18,299 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:28:19,116 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:28:19,236 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:28:20,038 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:28:20,094 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:28:20,138 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:28:20,508 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:28:20,513 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:28:30,654 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:28:31,469 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:28:31,591 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:28:33,359 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:28:33,413 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:28:33,457 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:28:33,838 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:28:33,843 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:28:43,972 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:28:44,788 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:28:44,909 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:28:45,577 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:28:45,631 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:28:45,675 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:28:46,059 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:28:46,063 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:28:56,192 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:31:41,026 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:31:41,152 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:31:42,575 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:31:42,644 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:31:42,687 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:31:44,204 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:31:44,892 [main] INFO Velocity3__Framework - LOG OUT SUCCESFULL
+2023-07-25 17:31:44,894 [main] INFO Velocity3__Framework - 7)Login Taste case succesfull
+2023-07-25 17:31:54,991 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:31:55,808 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:31:55,929 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:31:57,321 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:31:57,377 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:31:57,418 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:31:58,596 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:31:58,602 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:32:08,723 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:32:09,481 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:32:09,603 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:32:11,001 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:32:11,056 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:32:11,100 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:32:12,227 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:32:12,232 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:32:22,323 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:32:23,163 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:32:23,292 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:32:23,978 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:32:24,031 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:32:24,076 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:32:25,210 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:32:25,215 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:32:35,307 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 17:32:36,125 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 17:32:36,237 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 17:32:36,889 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 17:32:36,943 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 17:32:36,988 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 17:32:38,108 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 17:32:38,113 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 17:32:48,248 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 18:21:13,279 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 18:21:13,401 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 18:21:14,796 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 18:21:14,866 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 18:21:14,912 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 18:21:16,041 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 18:21:26,246 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 18:21:27,073 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 18:21:27,192 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 18:21:28,612 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 18:21:28,664 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 18:21:28,708 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 18:21:29,882 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 18:21:29,887 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 18:21:40,026 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 18:21:40,862 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 18:21:40,980 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 18:21:42,456 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 18:21:42,509 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 18:21:42,553 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 18:21:43,674 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 18:21:43,680 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 18:21:53,810 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 18:21:54,658 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 18:21:54,779 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 18:21:56,188 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 18:21:56,239 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 18:21:56,283 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 18:21:56,667 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 18:21:56,671 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 18:22:06,795 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 18:22:07,646 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 18:22:07,764 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 18:22:09,184 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 18:22:09,238 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 18:22:09,283 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 18:22:09,679 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 18:22:09,683 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 18:22:19,819 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 19:26:22,633 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 19:26:22,770 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 19:26:24,230 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 19:26:24,351 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 19:26:24,429 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 19:26:25,711 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 19:26:36,220 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 19:26:37,158 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 19:26:37,300 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 19:26:38,722 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 19:26:38,823 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 19:26:38,918 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 19:26:40,151 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 19:26:40,162 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 19:26:50,471 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 19:26:51,376 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 19:26:51,508 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 19:26:53,003 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 19:26:53,113 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 19:26:53,209 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 19:26:53,763 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 19:26:53,772 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 19:27:04,010 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 19:27:04,844 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 19:27:04,972 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 19:27:05,766 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 19:27:05,861 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 19:27:05,934 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 19:27:07,281 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 19:27:07,291 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 19:27:17,497 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 19:27:18,365 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 19:27:18,490 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 19:27:19,984 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 19:27:20,086 [main] INFO Velocity3__Framework - 4)Enter the user Email id
+2023-07-25 19:27:20,174 [main] INFO Velocity3__Framework - 5)Enter the user Password
+2023-07-25 19:27:21,408 [main] INFO Velocity3__Framework - 6)Enter the Login button
+2023-07-25 19:27:21,412 [main] INFO Velocity3__Framework - Login Taste case Unsuccesfull
+2023-07-25 19:27:31,668 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 19:29:23,713 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 19:29:23,841 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 19:29:25,297 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 19:29:44,220 [main] INFO Velocity3__Framework - close the browser
+2023-07-25 21:54:25,868 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-25 21:54:26,003 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-25 21:54:27,558 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-25 21:54:46,395 [main] INFO Velocity3__Framework - close the browser
+2023-07-27 00:03:55,791 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-27 00:03:55,930 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-27 00:03:57,400 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-27 00:04:15,823 [main] INFO Velocity3__Framework - close the browser
+2023-07-27 00:22:28,536 [main] INFO Velocity3__Framework - 1)Open the browser
+2023-07-27 00:22:28,663 [main] INFO Velocity3__Framework - 2)Maximize the browser
+2023-07-27 00:22:29,366 [main] INFO Velocity3__Framework - 3)Open the Application
+2023-07-27 00:22:46,960 [main] INFO Velocity3__Framework - close the browser
